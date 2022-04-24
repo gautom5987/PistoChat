@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_container_sent_message.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\item_container_sent_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_receiver_profile.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\activity_receiver_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_story_slide_page.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\fragment_story_slide_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_archived_chat.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\activity_archived_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\attach_file_dialog.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\attach_file_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_receive_otp.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\activity_receive_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_story.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\activity_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_user.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\nav_header.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_container_story.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\item_container_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_create_story.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\activity_create_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_contacts.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\activity_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_story_slide.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\activity_story_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_container_contacts.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\item_container_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_send_otp.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\activity_send_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_container_received_message.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\item_container_received_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_my_qr.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\activity_my_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_container_user.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\item_container_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_view_image.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\activity_view_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_container_recent_conversation.xml",
+        "source": "C:\\Users\\gargg\\AndroidStudioProjects\\gabble\\app\\src\\main\\res\\layout\\item_container_recent_conversation.xml"
+    }
+]

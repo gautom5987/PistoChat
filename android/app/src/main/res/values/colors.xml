@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1C2E46</color>
+    <color name="primary_dark">#142232</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="input_background">#ECECEC</color>
+    <color name="icon_background">#20FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="received_message_background">#090D16</color>
+    <color name="yellowTint">#FFC107</color>
+    <color name="compGreen">#3b7430</color>
+    <color name="powder">#B0DFE5</color>
+    <color name="beige">#e8c29d</color>
+    <color name="onlineGreen">#008000</color>
+    <color name="default_story_background">#34B7F1</color>
+    <color name="chat_dark_blue">#4267B2</color>
+    <color name="chat_light_blue">#00B2FF</color>
+    <color name="chat_grey_2">#898F9C</color>
+    <color name="chat_grey">#5996989C</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+</resources>

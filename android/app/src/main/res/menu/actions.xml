@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/consent"
+        android:checkable="true"
+        app:actionViewClass="android.widget.CheckBox"
+        android:title="Allow auto chat"
+        />
+
+    <item android:title="Set training frequency"
+        android:id="@+id/frequency"
+        />
+
+</menu>

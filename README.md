@@ -1,9 +1,8 @@
 # PistoChat
-## _Android application with Bot Video/Text chat_
 <p align="center">
 </p>
 
-<a href="https://hack36.com"> <img src=" https://cutt.ly/BuiltAtHack36" height=15px width = 100px> </a>
+<a href="https://hack36.com"> <img src="https://i.ibb.co/2sy4p5j/Built-At-Hack36.png" height=15px width = 100px> </a>
 
 
 ## Introduction:
@@ -22,10 +21,16 @@ _Unfortunately Video Chat feature could not be implemented in the app due to tim
 
 ## Screenshots:
 
-![Screenshot 1](./assets/Screenshots/2.png)
+![Screenshot 1](./assets/1.jpeg)
+![Screenshot 2](./assets/2.jpeg)
+![Screenshot 3](./assets/3.jpeg)
+![Screenshot 4](./assets/4.jpeg)
+![Screenshot 5](./assets/5.jpeg)
+![Screenshot 6](./assets/6.jpeg)
+![Screenshot 7](./assets/7.jpeg)
 
 ## Demo Video Link:
-  <a href="https://docs.google.com/presentation/d/1N1-8xPaULpoOqlEtqVsVmkClGOwFKV0gymYr4FAgCko/edit?usp=sharing">Video Link</a>
+  <a href="https://drive.google.com/drive/folders/1689TUAHEwNeNtqpvz-_rcjAMXw_T5EM1?usp=sharing">Video Link</a>
 
 ## Presentation Link:
   <a href="https://docs.google.com/presentation/d/1Ln1oz20AXF9c20YrELCqE8yrF1eJYiddyvqjVt4EfGw/edit?usp=sharing">Presentation Link</a>
@@ -49,4 +54,4 @@ Team Name: 0xCAFEBABE
 
 MIT
 
-<a href="https://hack36.com"> <img src=" https://cutt.ly/BuiltAtHack36" height=15px width = 100px> </a>
+<a href="https://hack36.com"> <img src="https://i.ibb.co/2sy4p5j/Built-At-Hack36.png" height=15px width = 100px> </a>
