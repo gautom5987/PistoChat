@@ -27,7 +27,7 @@ _Unfortunately Video Chat feature could not be implemented in the app due to tim
 ![Screenshot 4](./assets/4.jpeg)
 ![Screenshot 5](./assets/5.jpeg)
 ![Screenshot 6](./assets/6.jpeg)
-![Screenshot 7](./assets/7.jpeg)
+![Screenshot 7](./assets/7.png)
 
 ## Demo Video Link:
   <a href="https://drive.google.com/drive/folders/1689TUAHEwNeNtqpvz-_rcjAMXw_T5EM1?usp=sharing">Video Link</a>
