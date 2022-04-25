@@ -22,6 +22,7 @@ _Unfortunately Video Chat feature could not be implemented in the app due to tim
 ## Screenshots:
 
 ![Screenshot 7](./assets/7.png)
+> Screenshot depicting a bot replying to user messages and its working in the background.
 
 ## Presentation Link:
   <a href="https://docs.google.com/presentation/d/1Ln1oz20AXF9c20YrELCqE8yrF1eJYiddyvqjVt4EfGw/edit?usp=sharing">Presentation Link</a>
